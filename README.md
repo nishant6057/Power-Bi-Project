@@ -32,4 +32,7 @@ Adding more detailed product-level analysis
 Incorporating customer segmentation
 Including predictive sales modeling
 
+ ![Screenshot 2025-03-17 193746](https://github.com/user-attachments/assets/5abd4edc-3bf3-466c-9355-ecfa8a3decc8)
+
+
 
